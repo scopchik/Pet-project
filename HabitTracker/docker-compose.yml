@@ -1,6 +1,0 @@
-﻿services:
-  habittracker:
-    image: habittracker
-    build:
-      context: .
-      dockerfile: Dockerfile
